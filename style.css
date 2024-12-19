@@ -1,0 +1,41 @@
+.content-container {
+    display: flex;
+    justify-content: center;
+}
+
+.scroll {
+    display: table-row;
+    justify-content: space-around;
+}
+
+.painting-header {
+    color: grey;
+    font-size: 70px;
+    margin-top: 20px;
+}
+
+.card {
+    width: 20rem;
+    margin: 10px;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+.card-text {
+    font-size: 10px;
+}
+
+@media screen and (max-width: 800px) {
+    .card {
+        width: 20rem;
+        margin: 10px;
+    }
+}
+
+div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    height: 620px;
+}
