@@ -23,8 +23,17 @@
     height: 300px;
 }
 
+.card-body {
+    height: 200px;
+}
+
 .card-text {
     font-size: 10px;
+}
+
+.btn-primary {
+    position: absolute;
+    bottom: 18;
 }
 
 @media screen and (max-width: 800px) {
