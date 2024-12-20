@@ -1,5 +1,7 @@
 # pelinART
 
+![](./images/logo.png "")
+
 ---
 
 ## About
